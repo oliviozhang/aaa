@@ -13,7 +13,4 @@ i am spider man!
 i am men in black!
 i am iron man!
 
-<<<<<<< HEAD
 i am lord!
-=======
->>>>>>> spider
